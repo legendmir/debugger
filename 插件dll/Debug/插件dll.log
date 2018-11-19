@@ -1,0 +1,9 @@
+﻿  插件.cpp
+f:\15pb学习项目\new\调试器1\插件dll\插件.cpp(15): warning C4091: “typedef ”: 没有声明变量时忽略“DLLINFO”的左侧
+f:\15pb学习项目\new\调试器1\插件dll\插件.cpp(17): warning C4838: 从“int”转换到“CHAR”需要收缩转换
+f:\15pb学习项目\new\调试器1\插件dll\插件.cpp(17): warning C4309: “初始化”: 截断常量值
+f:\15pb学习项目\new\调试器1\插件dll\插件.cpp(116): warning C4715: “dumpFun”: 不是所有的控件路径都返回值
+    正在创建库 F:\15pb学习项目\new\调试器1\Debug\插件dll.lib 和对象 F:\15pb学习项目\new\调试器1\Debug\插件dll.exp
+LINK : warning LNK4232: 名称 插件dll.dll 包含非 ASCII 字符，在具有除 936 以外的 ANSI 代码页的系统上可能不能加载 DLL
+  插件dll.vcxproj -> F:\15pb学习项目\new\调试器1\Debug\插件dll.dll
+  插件dll.vcxproj -> F:\15pb学习项目\new\调试器1\Debug\插件dll.pdb (Full PDB)

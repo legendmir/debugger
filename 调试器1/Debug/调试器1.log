@@ -1,0 +1,51 @@
+﻿  main.cpp
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(1544): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(3190): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(273): warning C4477: “printf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“PVOID”
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(434): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(470): warning C4101: “pfile”: 未引用的局部变量
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(756): warning C4405: “str”: 标识符是保留字
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(631): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(644): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(646): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(657): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(668): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(678): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(680): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(702): warning C4477: “scanf_s”: 格式字符串“%X”需要类型“unsigned int *”的参数，但可变参数 2 拥有了类型“BYTE *”
+  f:\15pb学习项目\new\调试器1\调试器1\main.cpp(702): note: 请考虑在格式字符串中使用“%hhX”
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(710): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(723): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(731): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(752): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(777): warning C4477: “scanf”: 格式字符串“%X”需要类型“unsigned int *”的参数，但可变参数 1 拥有了类型“DWORD64 *”
+  f:\15pb学习项目\new\调试器1\调试器1\main.cpp(777): note: 请考虑在格式字符串中使用“%llX”
+  f:\15pb学习项目\new\调试器1\调试器1\main.cpp(777): note: 请考虑在格式字符串中使用“%I64X”
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(777): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(832): warning C4477: “printf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“PVOID”
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(847): warning C4477: “printf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“PVOID”
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(862): warning C4477: “printf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“PVOID”
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(868): warning C4477: “printf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“PVOID”
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(886): warning C4477: “printf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“PVOID”
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(898): warning C4477: “printf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“PVOID”
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(903): warning C4477: “printf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“PVOID”
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(912): warning C4477: “printf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“PVOID”
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(918): warning C4477: “printf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“PVOID”
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(942): warning C4477: “printf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“PVOID”
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(970): warning C4018: “<”: 有符号/无符号不匹配
+f:\15pb学习项目\new\调试器1\调试器1\main.cpp(462): warning C4715: “mod_asm”: 不是所有的控件路径都返回值
+  调试器1.vcxproj -> F:\15pb学习项目\new\调试器1\Debug\调试器1.exe
+  调试器1.vcxproj -> F:\15pb学习项目\new\调试器1\Debug\调试器1.pdb (Full PDB)
